@@ -8,8 +8,8 @@ Any other tips would also be appreciated.
 
 ### How to use this:
 
-* Clone this repository: `git clone https://github.com/HadoukenIO/app-template`
-* Install the dependencies: `cd app-template` & `npm install`
+* Clone this repository
+* Install the dependencies: `npm install`
 * Start the live-server and launch the application: `npm start`
 * Add your Javascript code to `main.js` and your HTML to `index.html`
 
